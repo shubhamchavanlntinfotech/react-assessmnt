@@ -1,0 +1,47 @@
+table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+    margin: 1% auto;
+}
+
+tr th {
+    border-bottom: 1px solid black;
+}
+
+tr td {
+    text-align: center;
+}
+
+.premiumType {
+    background-color: green;
+    color: white;
+}
+
+form {
+    margin: 2% auto !important;
+}
+
+.logoutWrapper {
+    float: right;
+    padding: 0px 10px;
+}
+
+.logoutWrapper button {
+    padding: 0.5rem 0.7rem;
+    min-width: 5rem;
+    background-color: #9333ea;
+    color: #f3e8ff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.logoutWrapper h2 {
+    margin: 0px;
+    color: #9333ea
+}
+
+.totalPrice td {
+    text-align: end;
+    font-weight: bold;
+}
